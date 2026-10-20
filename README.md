@@ -57,6 +57,14 @@ The workbook includes KPI summaries for customer, order, delivery, product and s
 
 See the dashboard screenshots and workbook for the detailed results.
 
+## Dashboard Preview
+
+![Excel Sales Analytics Dashboard](screenshots/dashboard.png)
+
+## KPI Summary
+
+![KPI Summary](screenshots/kpi-summary.png)
+
 ## Data Privacy
 
 The original dataset is not included in this repository.
