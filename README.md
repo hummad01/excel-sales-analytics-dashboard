@@ -59,7 +59,7 @@ See the dashboard screenshots and workbook for the detailed results.
 
 ## Data Privacy
 
-The original dataset is not included in this repository.
+The publicly shared project files exclude customer email addresses and street addresses. The original dataset is not included in this repository.
 
 ## Learning Outcomes
 
