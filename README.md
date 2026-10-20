@@ -65,6 +65,20 @@ See the dashboard screenshots and workbook for the detailed results.
 
 ![KPI Summary](screenshots/kpi-summary.png)
 
+## Charts and Analysis
+
+![Charts and Analysis](screenshots/charts-analysis.png)
+
+## 💡 Key Business Insights
+
+- **Customer Analysis:** The highest-value customer is Jodi Whitney and their total order value is 13,056.68.
+- **Product Performance:** The most frequently ordered product is PID036.
+- **Sales Performance:** The total sales after discounts and delivery charges is 3,47,189.76.
+- **Delivery Performance:** The average delivery time is 4 days.
+- **Coupon Analysis:** The most frequently used coupon is FLAT8.
+
+These findings can help businesses understand customer value, product demand, discount usage and delivery efficiency.
+
 ## Data Privacy
 
 The original dataset is not included in this repository.
